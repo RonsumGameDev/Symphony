@@ -9,6 +9,18 @@ Symphony represents an evolution from earlier experimental prototypes into a mor
 
 ---
 
+## Requirements
+
+### Python
+- Python 3.9+
+
+### Python dependencies
+```bash
+pip install -r requirements.txt
+```
+IMPORTANT‼️
+Tkinter is required to be externally installed in the system in order to run this app.
+
 ## 🎯 Vision
 The goal of Symphony is to:
 - Design a clean, modular application architecture
