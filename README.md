@@ -18,7 +18,7 @@ Symphony represents an evolution from earlier experimental prototypes into a mor
 ```bash
 pip install -r requirements.txt
 ```
-IMPORTANT‼️
+### IMPORTANT‼️
 Tkinter is required to be externally installed in the system in order to run this app.
 
 ## 🎯 Vision
